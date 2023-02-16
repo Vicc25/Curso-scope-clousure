@@ -1,0 +1,20 @@
+{
+  "name": "curso-scope-clousure",
+  "version": "1.0.0",
+  "description": "Prácticas realizadas para el curso de Scope y Clousure de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vicc25/Curso-scope-clousure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vicc25/Curso-scope-clousure/issues"
+  },
+  "homepage": "https://github.com/Vicc25/Curso-scope-clousure#readme"
+}
